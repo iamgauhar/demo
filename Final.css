@@ -1,0 +1,153 @@
+body{
+					   font-family: arial,sans-serif, century gothic;
+					   padding: 0;
+					   margin: 0;
+}
+#wrapper{
+									
+					 
+}
+.container{
+
+
+      
+					  background-image: url(Img_book.jpg);
+					 background-position: right center;
+					 background-size: cover;
+					 height: 100vh;
+					 
+					
+					 
+}
+.menu{
+      
+				    background: transparent;
+				    margin-top: 0px;
+				     overflow: hidden;
+				     height: 75px; 
+				    
+				 
+					  }
+.menu a{
+					    display: inline-block;
+					   outline: none;
+					  
+					   
+					    
+}
+
+.menu a{
+  
+					   text-decoration: none;
+					   color: black;
+					   font-size: 15px;
+					   padding:6px 8px;
+					   margin-right: 7px;
+					   letter-spacing: 1px;
+					   word-spacing: 2px;
+					   border: 1px solid transparent;
+					   border-radius: 20px;
+					   margin-top: 10px;
+					   position: relative;
+					   left: 10px;
+					   top: 30px;
+					   outline: none;
+					   float: left;
+					   transition: 0.7s ease;
+      
+}
+.menu .active{
+					  background: black;
+					  color: white;
+}
+.menu a:hover{
+					background: black;
+					color: white;
+}
+#log:hover{
+					 background: black;
+					 color: white;
+}
+#log{
+					  float: right;
+					  position: relative;
+					  top:  5px;
+					  left: -10px;
+					  border: 1px solid transparent;
+					  background: #FF5733;
+					  color: white;
+					  padding: 10px 10px;
+}
+.container{
+		
+			margin-bottom: 0px;
+			margin-bottom: 0px;
+}
+
+.content{
+					  
+					  text-align: center;
+					  position: relative;
+					  top: 146px;
+}
+.content h1{
+					     font-size: 50px;
+					     line-height: 20px;
+					     word-spacing: 2px;
+					     letter-spacing: 2px;
+					     font-weight: lighter;
+					     color: #34495E;
+}
+.footer{
+					     
+					     background: #34495E;
+					     color: grey;
+					     margin-top: 0px;
+					     margin-bottom: 0px;
+					     border: 1px solid #34495E;
+					     
+}
+.links{
+					 
+					  margin-top: 0px;
+					  position: relative;
+					  left: 30px;
+					  right: 30;
+}
+.links ul{
+					   list-style: none;
+					   
+					    margin-top: 0px;
+					   width: 90px;
+					   
+}
+.links h5{
+					  color: #B3B6B7;
+					  text-align: left;
+					 
+					  width: 130px;
+					  
+					  margin-left: 20px;
+}
+.links ul li{
+					   font-size: 14px;
+					   text-decoration: none;
+					   width: 250px;
+					   line-height: 25px;
+					   
+}
+.links p{
+					  padding-left: 0px;
+					  margin-left: 20px;
+				
+					  width: 170px;
+					  font-size: 14px;
+					  line-height: 25px;
+					  
+}
+
+
+
+
+
+	
